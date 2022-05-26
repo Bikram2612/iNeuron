@@ -1,0 +1,81 @@
+2022-05-26 16:37:01,325 ERROR The code is executed successfully
+NoneType: None
+2022-05-26 16:40:05,381 ERROR The code is executed successfully
+NoneType: None
+2022-05-26 16:40:05,381 DEBUG ppppppppppppppppppppppppppppppppppppp
+2022-05-26 16:40:53,855 DEBUG pickle loaded: C:\Users\My PC\Anaconda3\lib\logging\__init__.py
+2022-05-26 16:40:53,966 DEBUG pickle loaded: C:\Users\My PC\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\logging\__init__.pyi
+2022-05-26 16:40:54,020 DEBUG pickle loaded: C:\Users\My PC\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-05-26 16:40:54,028 DEBUG pickle loaded: C:\Users\My PC\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-05-26 16:41:09,193 DEBUG diff parser start
+2022-05-26 16:41:09,193 DEBUG line_lengths old: 6; new: 13
+2022-05-26 16:41:09,193 DEBUG -> code[equal] old[1:5] new[1:5]
+2022-05-26 16:41:09,193 DEBUG copy old[1:4] new[1:4]
+2022-05-26 16:41:09,195 DEBUG parse_part from 5 to 6 (to 7 in part parser)
+2022-05-26 16:41:09,195 DEBUG -> code[replace] old[6:6] new[6:13]
+2022-05-26 16:41:09,196 DEBUG parse_part from 7 to 13 (to 12 in part parser)
+2022-05-26 16:41:09,196 DEBUG diff parser end
+2022-05-26 16:41:16,016 DEBUG diff parser start
+2022-05-26 16:41:16,017 DEBUG line_lengths old: 13; new: 14
+2022-05-26 16:41:16,017 DEBUG -> code[equal] old[1:12] new[1:12]
+2022-05-26 16:41:16,017 DEBUG copy old[1:12] new[1:11]
+2022-05-26 16:41:16,018 DEBUG parse_part from 12 to 14 (to 13 in part parser)
+2022-05-26 16:41:16,020 DEBUG -> code[replace] old[13:13] new[13:14]
+2022-05-26 16:41:16,020 DEBUG diff parser end
+2022-05-26 16:41:28,545 ERROR Errog has happend 
+2022-05-26 16:41:28,545 ERROR Exception occured 'int' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\MYPC~1\AppData\Local\Temp/ipykernel_19524/527235196.py", line 13, in file_copy
+    logging.INFO("The code is executed successfully")
+TypeError: 'int' object is not callable
+2022-05-26 16:41:52,158 ERROR Errog has happend 
+2022-05-26 16:41:52,158 ERROR Exception occured 'int' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\MYPC~1\AppData\Local\Temp/ipykernel_19524/527235196.py", line 13, in file_copy
+    logging.INFO("The code is executed successfully")
+TypeError: 'int' object is not callable
+2022-05-26 16:42:00,077 DEBUG diff parser start
+2022-05-26 16:42:00,077 DEBUG line_lengths old: 14; new: 6
+2022-05-26 16:42:00,077 DEBUG -> code[equal] old[1:5] new[1:5]
+2022-05-26 16:42:00,077 DEBUG copy old[1:4] new[1:4]
+2022-05-26 16:42:00,078 DEBUG parse_part from 5 to 6 (to 5 in part parser)
+2022-05-26 16:42:00,079 DEBUG -> code[replace] old[6:14] new[6:6]
+2022-05-26 16:42:00,079 DEBUG diff parser end
+2022-05-26 16:42:04,184 ERROR Errog has happend 
+2022-05-26 16:42:04,184 ERROR Exception occured 'int' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\MYPC~1\AppData\Local\Temp/ipykernel_19524/4018151711.py", line 13, in file_copy
+    logging.INFO("The code is executed successfully")
+TypeError: 'int' object is not callable
+2022-05-26 16:42:31,288 ERROR Errog has happend 
+2022-05-26 16:42:31,288 ERROR Exception occured 'int' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\MYPC~1\AppData\Local\Temp/ipykernel_2788/527235196.py", line 13, in file_copy
+    logging.INFO("The code is executed successfully")
+TypeError: 'int' object is not callable
+2022-05-26 16:42:38,189 ERROR Errog has happend 
+2022-05-26 16:42:38,190 ERROR Exception occured 'int' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\MYPC~1\AppData\Local\Temp/ipykernel_2788/527235196.py", line 13, in file_copy
+    logging.INFO("The code is executed successfully")
+TypeError: 'int' object is not callable
+2022-05-26 16:43:49,601 ERROR Errog has happend 
+2022-05-26 16:43:49,602 ERROR Exception occured 'int' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\MYPC~1\AppData\Local\Temp/ipykernel_23672/3526679906.py", line 13, in file_copy
+    logging.INFO("The code is executed successfully")
+TypeError: 'int' object is not callable
+2022-05-26 16:44:00,857 INFO The code is executed successfully
+2022-05-26 16:44:30,497 INFO The code is executed successfully
+2022-05-26 16:44:30,498 ERROR Errog has happend 
+2022-05-26 16:44:30,498 ERROR Exception occured 'int' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\MYPC~1\AppData\Local\Temp/ipykernel_15476/1242461249.py", line 14, in file_copy
+    logging.DEBUG("Debugging successfully done")
+TypeError: 'int' object is not callable
+2022-05-26 16:44:39,936 DEBUG pickle loaded: C:\Users\My PC\Anaconda3\lib\logging\__init__.py
+2022-05-26 16:44:39,986 DEBUG pickle loaded: C:\Users\My PC\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\logging\__init__.pyi
+2022-05-26 16:44:40,022 DEBUG pickle loaded: C:\Users\My PC\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-05-26 16:44:40,026 DEBUG pickle loaded: C:\Users\My PC\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-05-26 16:44:41,753 INFO The code is executed successfully
+2022-05-26 16:44:41,753 DEBUG Debugging successfully done
